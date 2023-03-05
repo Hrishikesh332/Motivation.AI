@@ -61,7 +61,7 @@ Motivation.AI is an AI-powered chat application that aims to serve the wisdom an
 ## Languages and Tools
 
 <p align="left"> <a href="https://streamlit.io/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/S/streamlit-logo-1A3B208AE4-seeklogo.com.png" alt="bash" width="40" height="40"/> </a><a href="https://www.python.org/" rel="noreferrer"> <img src="https://www.svgrepo.com/show/452091/python.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://openai.com/" rel="noreferrer"> <img src="https://github.com/Hrishikesh332/OpenCode/blob/main/src/openai.jpg" alt="git" width="40" height="40"/> </a>
+<a href="https://openai.com/" rel="noreferrer"> <img src="https://github.com/Hrishikesh332/OpenCode/blob/main/src/openai.jpg" alt="openai" width="40" height="40"/> </a>
 
  
  ## Instructions on running project locally:
