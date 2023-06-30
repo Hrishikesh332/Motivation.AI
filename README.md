@@ -90,8 +90,6 @@ Run Project
 
 🔆 [@Hrishikesh Yadav](https://www.github.com/hrishikesh332)
 
-🔆 [@Shruti Mishra](https://github.com/ShrutiMishra-2002)
-
 
 
 
